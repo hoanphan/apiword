@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+
+            xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+            xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml"
+            xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+            xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+            xmlns:w10="urn:schemas-microsoft-com:office:word"
+            xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+             mc:Ignorable="w14 wp14">
+    <w:body>
+        <w:p w:rsidR="00956795" w:rsidRPr="001E29C5" w:rsidRDefault="007943C3">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+                </w:rPr>
+            </w:pPr>
+            <m:oMathPara>
+                <m:oMath>
+                    <m:rad>
+                        <m:radPr>
+                            <m:degHide m:val="1"/>
+                            <m:ctrlPr>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                                    <w:i/>
+                                </w:rPr>
+                            </m:ctrlPr>
+                        </m:radPr>
+                        <m:deg/>
+                        <m:e>
+                            <m:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                                </w:rPr>
+                                <m:t>s</m:t>
+                            </m:r>
+                        </m:e>
+                    </m:rad>
+                    <m:sSup>
+                        <m:sSupPr>
+                            <m:ctrlPr>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia"
+                                              w:hAnsi="Cambria Math"/>
+                                    <w:i/>
+                                </w:rPr>
+                            </m:ctrlPr>
+                        </m:sSupPr>
+                        <m:e>
+                            <m:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                                </w:rPr>
+                                <m:t>e</m:t>
+                            </m:r>
+                        </m:e>
+                        <m:sup>
+                            <m:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                                </w:rPr>
+                                <m:t>-tiθ</m:t>
+                            </m:r>
+                        </m:sup>
+                    </m:sSup>
+                    <m:f>
+                        <m:fPr>
+                            <m:ctrlPr>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia"
+                                              w:hAnsi="Cambria Math"/>
+                                    <w:i/>
+                                </w:rPr>
+                            </m:ctrlPr>
+                        </m:fPr>
+                        <m:num>
+                            <m:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                                </w:rPr>
+                                <m:t>π</m:t>
+                            </m:r>
+                        </m:num>
+                        <m:den>
+                            <m:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                                </w:rPr>
+                                <m:t>2</m:t>
+                            </m:r>
+                        </m:den>
+                    </m:f>
+                </m:oMath>
+            </m:oMathPara>
+        </w:p>
+        <w:p w:rsidR="001E29C5" w:rsidRDefault="001E29C5">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+                    <w:noProof/>
+                </w:rPr>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="5943600" cy="3343275"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="1" name="Picture 1"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+                                                 noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="0" name="background.jpg"/>
+                                        <pic:cNvPicPr/>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId5">
+                                            <a:extLst>
+                                                <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                                                    <a14:useLocalDpi
+                                                            xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"
+                                                            val="0"/>
+                                                </a:ext>
+                                            </a:extLst>
+                                        </a:blip>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr>
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="5943600" cy="3343275"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00956795" w:rsidRPr="007943C3" w:rsidRDefault="007943C3">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+                </w:rPr>
+            </w:pPr>
+            <m:oMathPara>
+                <m:oMath>
+                    <m:func>
+                        <m:funcPr>
+                            <m:ctrlPr>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                                    <w:i/>
+                                </w:rPr>
+                            </m:ctrlPr>
+                        </m:funcPr>
+                        <m:fName>
+                            <m:limLow>
+                                <m:limLowPr>
+                                    <m:ctrlPr>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                                            <w:i/>
+                                        </w:rPr>
+                                    </m:ctrlPr>
+                                </m:limLowPr>
+                                <m:e>
+                                    <m:r>
+                                        <m:rPr>
+                                            <m:sty m:val="p"/>
+                                        </m:rPr>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                                        </w:rPr>
+                                        <m:t>lim</m:t>
+                                    </m:r>
+                                </m:e>
+                                <m:lim>
+                                    <m:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                                        </w:rPr>
+                                        <m:t>n→∞</m:t>
+                                    </m:r>
+                                </m:lim>
+                            </m:limLow>
+                        </m:fName>
+                        <m:e>
+                            <m:sSup>
+                                <m:sSupPr>
+                                    <m:ctrlPr>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                                            <w:i/>
+                                        </w:rPr>
+                                    </m:ctrlPr>
+                                </m:sSupPr>
+                                <m:e>
+                                    <m:d>
+                                        <m:dPr>
+                                            <m:ctrlPr>
+                                                <w:rPr>
+                                                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                                                    <w:i/>
+                                                </w:rPr>
+                                            </m:ctrlPr>
+                                        </m:dPr>
+                                        <m:e>
+                                            <m:r>
+                                                <w:rPr>
+                                                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                                                </w:rPr>
+                                                <m:t>1+</m:t>
+                                            </m:r>
+                                            <m:f>
+                                                <m:fPr>
+                                                    <m:ctrlPr>
+                                                        <w:rPr>
+                                                            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                                                            <w:i/>
+                                                        </w:rPr>
+                                                    </m:ctrlPr>
+                                                </m:fPr>
+                                                <m:num>
+                                                    <m:r>
+                                                        <w:rPr>
+                                                            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                                                        </w:rPr>
+                                                        <m:t>1</m:t>
+                                                    </m:r>
+                                                </m:num>
+                                                <m:den>
+                                                    <m:r>
+                                                        <w:rPr>
+                                                            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                                                        </w:rPr>
+                                                        <m:t>n</m:t>
+                                                    </m:r>
+                                                </m:den>
+                                            </m:f>
+                                        </m:e>
+                                    </m:d>
+                                </m:e>
+                                <m:sup>
+                                    <m:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                                        </w:rPr>
+                                        <m:t>n</m:t>
+                                    </m:r>
+                                </m:sup>
+                            </m:sSup>
+                        </m:e>
+                    </m:func>
+                </m:oMath>
+            </m:oMathPara>
+        </w:p>
+        <w:p w:rsidR="007943C3" w:rsidRDefault="007943C3">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+                </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="0" w:name="_GoBack"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+                    <w:noProof/>
+                </w:rPr>
+                <w:pict>
+                    <v:rect id="_x0000_s1026"
+                            style="position:absolute;margin-left:142.5pt;margin-top:12.6pt;width:156.75pt;height:132pt;z-index:251658240"
+                            fillcolor="#4f81bd [3204]" strokecolor="#f2f2f2 [3041]" strokeweight="3pt">
+                        <v:shadow on="t" type="perspective" color="#243f60 [1604]" opacity=".5" offset="1pt"
+                                  offset2="-1pt"/>
+                    </v:rect>
+                </w:pict>
+            </w:r>
+            <w:bookmarkEnd w:id="0"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+                </w:rPr>
+                <w:t>Dsadsad</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="007943C3" w:rsidRPr="00D86FDE" w:rsidRDefault="007943C3">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00D86FDE" w:rsidRDefault="007E440F">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+                </w:rPr>
+                <w:t>D</w:t>
+            </w:r>
+            <w:r w:rsidR="00D86FDE">
+                <w:rPr>
+                    <w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+                </w:rPr>
+                <w:t>sadsadsaddsadsadsa</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="007E440F" w:rsidRDefault="007E440F">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+                </w:rPr>
+                <w:t>dsadasdsadsad</w:t>
+            </w:r>
+        </w:p>
+        <w:sectPr w:rsidR="007E440F">
+            <w:pgSz w:w="12240" w:h="15840"/>
+            <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720"
+                     w:gutter="0"/>
+            <w:cols w:space="720"/>
+            <w:docGrid w:linePitch="360"/>
+        </w:sectPr>
+    </w:body>
+</w:document>
